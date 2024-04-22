@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/sgeuthecodingcat/inspiron-3542-hackintosh/main/Opencore.png)
+
 # Probook 450 G6 Hackintosh
 > OpenCore only.
 
