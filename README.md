@@ -10,6 +10,8 @@ Audio Recording
 
 Audio Playback
 
+OTA Updates
+
 iGPU
 
 External Video
@@ -18,12 +20,16 @@ Internal Video
 
 Android USB Tethering (HorDNiS)
 
+MacOS 10.15-14
+
 # What DOES NOT work
 WiFi
 
 Airplay
 
 Bluetooth
+
+Low Battery indicator (Catalina ONLY)
 
 # What is UNTESTED
 iServices
